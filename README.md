@@ -1,4 +1,4 @@
-# visual SLAM
+# visual SLAM project
 
 **1.	Introduction**
 
